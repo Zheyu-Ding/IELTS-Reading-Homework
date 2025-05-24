@@ -1,8 +1,6 @@
 # **IELTS Reading Week 4 Homework**
 ## **New Words**
 ### **C1T1P1**
-- sealed adj. 真空的
-- airtight adj. 真空的
 - tipped adj. 焊接在尖头上的
 - resembling v. 像，与……相似
 - military n. 军人 adj. 军队的
@@ -21,6 +19,7 @@
 ## **Synonym Replacement**
 ### **C1T1P1**
 - the same as = identical to 与……相同
+- sealed = airtight adj. 真空的
 
 ### **C11T4P1**
 - inherit(v. 继承)= heritage(n. 遗产) = heredity(n. 遗传) 
