@@ -6,3 +6,4 @@
 - [Week4](https://github.com/Zheyu-Ding/IELTS-Reading-Homework/blob/main/IELTS_Reading_Week_4_Homework.md)
 - [Week5](https://github.com/Zheyu-Ding/IELTS-Reading-Homework/blob/main/IELTS_Reading_Week_5_Homework.md)
 - [Week6](https://github.com/Zheyu-Ding/IELTS-Reading-Homework/blob/main/IELTS_Reading_Week_6_Homework.md)
+- [Week7](https://github.com/Zheyu-Ding/IELTS-Reading-Homework/blob/main/IELTS_Reading_Week_7_Homework.md)
